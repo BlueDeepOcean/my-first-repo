@@ -1,26 +1,18 @@
-# This is a large heading
+# Sofia Lotus Tree
 
-## This is a smaller heading
+## I am a human living on earth. 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+And as a human, I exploring life. I love art and science. 
 
-- This is
-- an unordered
-- list
+## Reading
 
-1. This is
-2. an ordered
-3. list
+I love history and philosophy. 
 
-Here is `some code` in the middle of a sentence.
+Some 'favorite' philosophers:
 
 ```
-This is
-a block
-of code
+1 Mo Zi
+2 Huai Nan Zi
 ```
 
 Here is how you make [a link](https://www.wikipedia.org/).
